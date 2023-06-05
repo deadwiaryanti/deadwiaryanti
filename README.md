@@ -1,8 +1,4 @@
 # Halo semua! 
-<a href="https://www.instagram.com/blueliec/">
-  <img align="left" alt="Dea's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<br />
 
 Perkenalkan Nama Saya **Dea Dwi Aryanti**.  
 
@@ -23,6 +19,11 @@ Saya Memiliki **Sertifikasi** Kursus Online yang Telah Saya Raih, Yaitu:
 - [Pengenalan Data pada Pemrograman (Data 101)](https://www.dicoding.com/certificates/L4PQG5K9OZO1)  
 
 **Jika Kamu Tertarik Untuk Berkenalan Denganku, Silahkan Follow Ya!**  
+
+<a href="https://www.instagram.com/blueliec/">
+  <img align="left" alt="Dea's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<br />  
 
 **Languages and Tools:**  
 

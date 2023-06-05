@@ -19,3 +19,10 @@ Saya Memiliki **Sertifikasi** Kursus Online yang Telah Saya Raih, Yaitu:
 - [Pengenalan Data pada Pemrograman (Data 101)](https://www.dicoding.com/certificates/L4PQG5K9OZO1)
 
 **Jika Kamu Tertarik Untuk Berkenalan Denganku, Silahkan Follow Ya!**
+
+<p align="left">
+<a href="https://github.com/gilangadhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>

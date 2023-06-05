@@ -1,5 +1,5 @@
 # Halo semua! 
-<a href="https://www.instagram.com/blueliec/">
+<a href="https://www.instagram.com/blueliec/">  
   <img align="left" alt="Dea's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />  
 </a>  
 

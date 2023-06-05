@@ -1,10 +1,10 @@
-# Halo semua! 
+# Halo Semua! 
 
 Perkenalkan Nama Saya **Dea Dwi Aryanti**.  
 
 Saya Seorang **Pelajar** yang Sedang Mendalami **Ilmu Pemrograman** di [Dicoding](https://www.dicoding.com/) dan [LearningX](https://www.learningx.com/).  
 
-Saya Merupakan Siswa Dari **SMK Negeri 15 Kota Bekasi** dan Sedang Duduk Di Bangku **Kelas 10.**  
+Saya Merupakan Siswi Dari **SMK Negeri 15 Kota Bekasi** dan Sedang Duduk Di Bangku **Kelas 10.**  
 
 Saya Tertarik Dengan **Teknologi Industri**.  
 

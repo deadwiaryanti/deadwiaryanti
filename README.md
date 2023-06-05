@@ -2,9 +2,6 @@
 <a href="https://www.instagram.com/blueliec/">
   <img align="left" alt="Dea's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="discordapp.com/users/deadwiary#2242">
-  <img align="left" alt="Dea's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>  
 
 <br />  
 
